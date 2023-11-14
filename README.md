@@ -1,5 +1,5 @@
 ### Hi there, This is Fazle Rabbi!
-I am a data scientist with a background in Physics.
+I am a data science enthusiast with a background in Physics.
 
 <!--
 **frdayeen/frdayeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
