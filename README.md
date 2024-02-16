@@ -1,6 +1,9 @@
 ### Hi there, This is Fazle Rabbi!
-I am a data science enthusiast with a background in Physics.
+I am a material scientist and data science enthusiast with a background in Physics.
 
+Hey there! I'm currently diving deep into the fascinating world of thin film, soft condensed matter, and biophysics, pursuing my Ph.D. at the Illinois Institute of Technology. My journey started with a Master's in theoretical physics, where I explored the mind-bending realm of quantum field theory. I've also had valuable experience using cutting-edge technology like Grazing Incident X-ray diffraction at Argonne National Lab.
+
+When it comes to data, I'm your friend! I can analyze it, visualize it, and make it sing with tools like Mathematica, Tableau, Python, and C++. Whether it's physics, condensed matter, or biophysics, I'm comfortable working with complex concepts and unraveling their secrets. So, if you have any big data challenges or just want to geek out about science, hit me up! I'm always excited to connect and learn more.
 <!--
 **frdayeen/frdayeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
