@@ -1,5 +1,5 @@
 ### Hey there! This is Fazle Rabbi Dayeen!
-I am a material scientist and data science enthusiast with a background in Physics.
+I am a Doctoral Researcher in Physics.
 
 I'm currently diving deep into the fascinating world of thin film, soft condensed matter, and biophysics, pursuing my Ph.D. at the Illinois Institute of Technology. My journey started with a Master's in theoretical physics, where I explored the mind-bending realm of quantum field theory. I've also had valuable experience using cutting-edge technology like Grazing Incident X-ray diffraction at Argonne National Lab.
 
